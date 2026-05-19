@@ -1,0 +1,14 @@
+{
+  "name": "badge-remover-bot",
+  "version": "1.0.0",
+  "description": "A one-file Discord bot for AutoMod badge removal — by Darky.ego",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Darky.ego",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.15.3"
+  }
+}
